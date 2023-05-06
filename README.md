@@ -36,8 +36,28 @@ The flow chart represents the various steps of the project:
 
 ![image](https://user-images.githubusercontent.com/94912101/235471303-c0209ada-15ad-4110-9988-97e70d3c3f8b.png)
 
+## Example
+
+Lets try to determine the set of roads which need to be included in the network of 6 cities provided which would lead to a Minimum Cost Of Production.
+
+The 6 cities considered are :
+
+- Mumbai
+- Delhi
+- Kolkata
+- Bengaluru
+- Chennai
+- Hyderabad
+
+Terminal Output Depicting The Edges In The Minimum Spanning Tree Along With It's Cost
+
+<img src="https://user-images.githubusercontent.com/94912101/236620558-0037ea74-fe8a-4b1c-be17-9562c722d8e9.png">
+
+Original Graph           |  Minimum Spanning Tree
+:-------------------------:|:-------------------------:
+![](https://user-images.githubusercontent.com/94912101/236620570-2e1127b3-66d5-4f06-a78b-4c970cec3194.png)  |  ![](https://user-images.githubusercontent.com/94912101/236620576-2f2b58fc-fe5b-43cb-a583-389e1f58db61.png)
 ## Conclusion
 
 Road network design using minimum spanning tree is a graph theory approach that can be used to design a cost-effective road network that connects various locations in an area.
 
-the approach ensures that all the locations are connected with the minimum possible cost , resulting in an efficient road network that benefits the community.
+The approach ensures that all the locations are connected with the minimum possible cost , resulting in an efficient road network that benefits the community.
