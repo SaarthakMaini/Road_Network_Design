@@ -61,3 +61,10 @@ Original Graph           |  Minimum Spanning Tree
 Road network design using minimum spanning tree is a graph theory approach that can be used to design a cost-effective road network that connects various locations in an area.
 
 The approach ensures that all the locations are connected with the minimum possible cost , resulting in an efficient road network that benefits the community.
+
+## Video Playlist
+
+In this [video playlist](https://www.youtube.com/playlist?list=PLL8Oif1Nvo3xnh_fGCSDzfeeJuwGGvBkc) I give in-depth explaination about the project, build it live and demonstrate it's functionality in detail
+
+
+
